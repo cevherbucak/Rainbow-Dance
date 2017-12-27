@@ -3,4 +3,5 @@
 step left,
 step right,
 jump up and down,
+twirl your hands,
 do the rainbow dance.
